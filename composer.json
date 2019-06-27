@@ -1,5 +1,5 @@
 {
-    "name": "indiana-university/iukb-php-api",
+    "name": "indiana-university/iukb-api-php",
     "description": "A set of classes to pull documents from the IU knowledge base into your application",
     "type": "library",
     "license": "BSD-3-Clause",
