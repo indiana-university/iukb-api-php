@@ -2,7 +2,7 @@
     "name": "avitacco/iukb-php-api",
     "description": "A set of classes to pull documents from the IU knowledge base into your application",
     "type": "library",
-    "license": "MIT",
+    "license": "BSD-3-Clause",
     "homepage": "https://github.iu.edu/avitacco/iukb-php-api",
     "keywords": [
         "knowledge",
@@ -15,7 +15,7 @@
         {
             "name": "Anthony Vitacco",
             "email": "avitacco@iu.edu",
-            "homepage": "https://github.iu.edu/avitacco",
+            "homepage": "https://github.com/indiana-university/iukb-api-php",
             "role": "developer"
         }
     ],
