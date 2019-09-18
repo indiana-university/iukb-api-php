@@ -30,7 +30,7 @@ class VersionTraitTest extends TestCase
     {
         return [
             [true],
-            [new \DateTime],
+            [new \DateTime()],
             ['987'],
             ['banana'],
             [3.14159],
