@@ -2,7 +2,7 @@
 A set of classes to pull documents from the IU knowledge base into your PHP application
 
 ## Requirements
-* PHP 7.1+
+* PHP 7 or 8
 * Composer
 * A knowledge base REST account
     * See [the knowledge base REST api documentation](https://kb.iu.edu/d/rest)
